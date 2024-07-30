@@ -5,7 +5,7 @@ import ProjectCard from "@/components/ProjectCard"
 
 const projectData = [
     {
-        image: '/work/h5.png',
+        image: '././work/h5.png',
         category: 'react js',
         name: 'Traveling Website',
         desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod imperdiet metus in aliquet.',
@@ -13,7 +13,7 @@ const projectData = [
         github: 'https://github.com/LeKhoaDev/ReactJs-Traveling/tree/main/travelproject'
     },
     {
-        image: '/work/h7.png',
+        image: '././work/h7.png',
         category: 'react js',
         name: 'Cinema Website',
         desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod imperdiet metus in aliquet.',
@@ -21,7 +21,7 @@ const projectData = [
         github: 'https://github.com/LeKhoaDev/project-cinema'
     },
     {
-        image: '/work/h4.png',
+        image: '././work/h4.png',
         category: 'react js',
         name: 'Clothes Website',
         desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod imperdiet metus in aliquet.',
@@ -29,7 +29,7 @@ const projectData = [
         github: 'https://github.com/LeKhoaDev/React-ClotheShop/tree/main/frontend'
     },
     {
-        image: '/work/h1.png',
+        image: '././work/h1.png',
         category: 'android',
         name: 'Food Booking App',
         desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod imperdiet metus in aliquet.',
@@ -37,7 +37,7 @@ const projectData = [
         github: 'https://github.com/LeKhoaDev/Android-FoodApp'
     },
     {
-        image: '/work/h2.png',
+        image: '././work/h2.png',
         category: 'android',
         name: 'Films App',
         desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod imperdiet metus in aliquet.',
@@ -45,7 +45,7 @@ const projectData = [
         github: 'https://github.com/LeKhoaDev/Android-Film'
     },
     {
-        image: '/work/h6.png',
+        image: '././work/h6.png',
         category: 'fullstack',
         name: 'Doctor Appointment Booking Website',
         desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod imperdiet metus in aliquet.',
